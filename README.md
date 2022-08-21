@@ -41,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-88QEhrrv7m#comment-6301f00583876a172e86fa0c (https://www.frontendmentor.io/solutions/product-preview-card-component-88QEhrrv7m#comment-6301f00583876a172e86fa0c)
-- Live Site URL: [https://prodcardcomp.netlify.app/]
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-88QEhrrv7m#comment-6301f00583876a172e86fa0c 
+- Live Site URL: https://prodcardcomp.netlify.app/
 
 ## My process
 
