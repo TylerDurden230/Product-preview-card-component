@@ -1,16 +1,6 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - Interactive rating component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview
 
@@ -18,8 +8,10 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Select and submit a number rating
+- See the "Thank you" card state after submitting a rating
 
 ### Screenshot
 
@@ -27,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-88QEhrrv7m#comment-6301f00583876a172e86fa0c)
-- Live Site URL: [Live Site](https://prodcardcomp.netlify.app/)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -37,7 +29,11 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- CSS Grid
+- Plain Javascript
 
 ## Author
 
-- Frontend Mentor - [@tylerdurden230](https://www.frontendmentor.io/profile/tylerdurden230)
+- Frontend Mentor - [@tylerdurden](https://www.frontendmentor.io/profile/tylerdurden230)
+
+
